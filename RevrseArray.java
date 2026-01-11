@@ -6,7 +6,7 @@ public class RevrseArray {
         for (int i = 0; i < n; i++) {
             reversedArray[i] = array[n - 1 - i];
         }
-        System.out.print("Reversed Array: ");
+        System.out.print("Reversed Array   : ");
         for (int num : reversedArray) {
             System.out.print(num + " ");
         }
