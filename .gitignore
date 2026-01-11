@@ -1,0 +1,23 @@
+## Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
