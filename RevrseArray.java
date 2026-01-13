@@ -8,7 +8,7 @@ public class RevrseArray {
         }
         System.out.print("Reversed Array   : ");
         for (int num : reversedArray) {
-            System.out.print(num + " ");
+            System.out.print(num + " heloo");
         }
     }
     
